@@ -35,12 +35,12 @@
         "source": "git@github.com:sifive/cmsis-svd-generator.git"
     },
     {
-        "commit": "f418e6c39416a8003bf9388d718fea5498e77773",
+        "commit": "6222a54f887e7b7ad9ed867843cb2660338741e3",
         "name": "openocdcfg-generator",
         "source": "git@github.com:sifive/openocdcfg-generator.git"
     },
     {
-        "commit": "c974863998bf05d96d25bbb153a6f6e80ffd90e2",
+        "commit": "8f7f99d50672e07e1ca6388989bff38f3988403b",
         "name": "esdk-settings-generator",
         "source": "git@github.com:sifive/esdk-settings-generator.git"
     },
